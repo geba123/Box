@@ -1102,7 +1102,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "https://github.com/geba123/Box/blob/main/custom_spider.jar?raw=true",
+  "spider": "https://raw.githubusercontent.com/geba123/Box/blob/main/custom_spider.jar",
 
   "ijk": [
     {
