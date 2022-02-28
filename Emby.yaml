@@ -88,7 +88,10 @@ payload:
 #🐻貓熊影業Emby
   - DOMAIN,embyclub.nl
   - DOMAIN,jp.embyclub.nl
-  - DOMAIN,20.189.99.35:58080
   - DOMAIN,azsgp.embyclub.nl
 
-  - DOMAIN-SUFFIX,emby.media
+#Misty Emby
+  - DOMAIN-SUFFIX,aaa.ax
+  - DOMAIN-SUFFIX,jp.aaa.ax
+  - DOMAIN-SUFFIX,p-az.aaa.ax
+  - DOMAIN-SUFFIX,sg.aaa.ax
