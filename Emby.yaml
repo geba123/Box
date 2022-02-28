@@ -93,5 +93,5 @@ payload:
 #Misty Emby
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,jp.aaa.ax
-  - DOMAIN-SUFFIX,p-az.aaa.ax
+  - DOMAIN-SUFFIX,jp-az.aaa.ax
   - DOMAIN-SUFFIX,sg.aaa.ax
