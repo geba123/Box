@@ -95,3 +95,10 @@ payload:
   - DOMAIN-SUFFIX,jp.aaa.ax
   - DOMAIN-SUFFIX,jp-az.aaa.ax
   - DOMAIN-SUFFIX,sg.aaa.ax
+
+#JMS
+  - DOMAIN,cf.jmsooo.com
+  - DOMAIN,sg1.jmsooo.com
+  - DOMAIN,sg2.jmsooo.com
+  - DOMAIN,usa1.jmsooo.com
+  - DOMAIN,usa2.jmsooo.com
