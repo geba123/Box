@@ -102,3 +102,7 @@ payload:
   - DOMAIN,sg2.jmsooo.com
   - DOMAIN,usa1.jmsooo.com
   - DOMAIN,usa2.jmsooo.com
+  
+  #MisakaF
+  - DOMAIN,emby.misakaf.xyz
+  - IP-CIDR,46.38.239.238/24
