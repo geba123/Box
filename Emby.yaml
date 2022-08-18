@@ -104,5 +104,5 @@ payload:
   - DOMAIN,usa2.jmsooo.com
   
   #MisakaF
-  - DOMAIN,emby.misakaf.org
+  - DOMAIN-KEYWORD,misakaf
   - IP-CIDR,46.38.239.238/24
