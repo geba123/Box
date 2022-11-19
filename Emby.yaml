@@ -106,3 +106,4 @@ payload:
   #MisakaF
   - DOMAIN-KEYWORD,misakaf
   - IP-CIDR,46.38.239.238/24
+  - IP-CIDR,111.202.1.248/30
