@@ -95,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,jp.aaa.ax
   - DOMAIN-SUFFIX,jp-az.aaa.ax
   - DOMAIN-SUFFIX,sg.aaa.ax
+  - DOMAIN-SUFFIX,misty.ltd
 
 #JMS
   - DOMAIN,cf.jmsooo.com
