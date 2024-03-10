@@ -1,21 +1,17 @@
-#Misty Emby
-  - DOMAIN-SUFFIX,aaa.ax
-  - DOMAIN-SUFFIX,jp.aaa.ax
-  - DOMAIN-SUFFIX,jp-az.aaa.ax
-  - DOMAIN-SUFFIX,sg.aaa.ax
-  - DOMAIN-KEYWORD,misty
+#MisakaF
+- DOMAIN-KEYWORD,misakaf
+- IP-CIDR,46.38.239.238/30
+- IP-CIDR,111.202.1.248/30
+- DOMAIN-SUFFIX,aca.best
 
-#JMS
-  - DOMAIN,cf.jmsooo.com
-  - DOMAIN,sg1.jmsooo.com
-  - DOMAIN,sg2.jmsooo.com
-  - DOMAIN,usa1.jmsooo.com
-  - DOMAIN,usa2.jmsooo.com
-  
-  #MisakaF
-  - DOMAIN-KEYWORD,misakaf
-  - IP-CIDR,46.38.239.238/24
-  - IP-CIDR,111.202.1.248/30
+# JMS
+- DOMAIN-KEYWORD,jmsooo
 
-#星云
-  - DOMAIN-SUFFIX,direct.nebula-emby.com
+#纸片人
+- DOMAIN-SUFFIX,embyplus.org
+
+#Tree Diagram
+- DOMAIN, 789.123456.al
+
+#NM emby
+- DOMAIN-SUFFIX,film.ohhhh.org
